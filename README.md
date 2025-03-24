@@ -1,7 +1,7 @@
 # Hi, I'm Rariana Aina ANDRIAMIADANA 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rariana-aina-andriamiadana-1536401b7/)
-[![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?&style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/rarianaana.andriamiadana))
+[![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?&style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/rarianaana.andriamiadana)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25E91E63.svg?&style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+261340626129)
 
 I'm a passionate and creative developer always learning new technologies! 🚀
